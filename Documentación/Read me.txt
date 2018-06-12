@@ -1,0 +1,1 @@
+La documentación fue realizada utilizando sharelatex.com. Favor tomar en cuenta en caso de tener problemas al correr el archivo latex.

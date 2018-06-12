@@ -1,0 +1,36 @@
+x,y,value
+Fincas,San Jose,0.871308267,San Jose,16,Escazu,17,Desamparados,354, Puriscal,615,Tarrazu,591,Aserri,313,Mora,217,Goicoechea,23,Santa Ana,74,Alajuelita,22,Vazquez de Coronado,61,Acosta,389,Tibas,3,Moravia,25,Montes de Oca,12,Turrubares,271,Dota,213,Curridabat,4,Perez Zeledon,3480,Leon Cortes Castro,646 
+Fincas,Alajuela,1,Alajuela,594,San Ramon,988,Grecia,471,San Mateo,136,Atenas,156,Naranjo,175,Palmares,65,Poas,155,Orotina,120,San Carlos,1809,Zarcero,81,Valverde Vega,129,Upala,1826,Los Chiles,858,Guatuso,868
+Fincas,Cartago,0.247894674,Cartago,320,Paraiso,158,La Union,32,Jimenez,120,Turrialba,1289,Alvarado,63,Oreamuno,32,El Guarco,76
+Fincas,Heredia,0.21990274,Heredia,24,Barva,95,Santo Domingo,54,Santa Barbara,83,San Rafael,58,San Isidro,97,Belen,6,Flores,5,San Pablo,4,Sarapiqui,1428
+Fincas,Guanacaste,0.613687582,Liberia,279,Nicoya,1160,Santa Cruz,1047,Bagaces,329,Carrillo,172,Canas,158,Abangares,298,Tilaran,387,Nandayure,313,La Cruz,762,Hojancha,269
+Fincas,Puntarenas,0.8465188,Puntarenas,834,Esparza,243,Buenos Aires,1988,Montes de Oro,231,Osa,615,Quepos,178,Golfito,636,Coto Brus,1561,Parrita,153,Corredores,574,Garabito,124
+Fincas,Limon,0.613924801,Limon,1101,Pococi,1512,Siquirres,623,Talamanca,1118,Matina,376,Guacimo,446
+Total Aves,San Jose,0.062664595,Escazu,411,Desamparados,25319,Puriscal,43734,Tarrazu,22785,Aserri,8932,Mora,334220,Goicoechea,792,Santa Ana,9377,Alajuelita,926,Vazquez de Coronado,3942,Acosta,34098,Tibas,150, Moravia,1629, Montes de Oca,452,Turrubares,8826,Dota,9207,Curridabat,82,Perez Zeledon,402724,Leon Cortes Castro,12514
+Total Aves,Alajuela,1,Alajuela,3877129,San Ramon,3368894,Grecia,1530275,San Mateo,444514,Atenas,472918,Naranjo,4844798,Palmares,594861,Poas,759412,Orotina,28466,San Carlos,2917569,Zarcero,7511,Valverde Vega,153599,Upala,67787,Los Chiles,20792,Guatuso,21738
+Total Aves,Cartago,0.020943906,Cartago,122421,Paraiso,23103,La Union,812,Jimenez,18958,Turrialba,108449,Alvarado,11036,Oreamuno,7116,El Guarco,22409
+Total Aves,Heredia,0.051861462,Heredia,617,Barva,141462,Santo Domingo,1607,Santa Barbara,516780,San Rafael,1340,San Isidro,8134,Belen,39138,Flores,162,San Pablo,178,Sarapiqui,68864
+Total Aves,Guanacaste,0.015940022,Liberia,13115,Nicoya,36673,Santa Cruz,31454,Bagaces,28097,Carrillo,7680,Canas,6956,Abangares,40870,Tilaran,14309,Nandayure,8051,La Cruz,21052,Hojancha,30954
+Total Aves,Puntarenas,0.075526241,Puntarenas,689618,Esparza,162011,Buenos Aires,54729,Montes de Oro,36198,Osa,17654,Quepos,8850,Golfito,21160,Coto Brus,106077,Parrita,4866,Corredores,18887,Garabito,13368
+Total Aves,Limon,0.011787411,Limon,27463,Pococi,59930,Siquirres,24768,Talamanca,30271,Matina,23679,Guacimo,10782
+Pollos,San Jose,0.031805626,Escazu,117,Desamparados,8722,Puriscal,17932,Tarrazu,12477,Aserri,2226,Mora,46457,Goicoechea,61,Santa Ana,507,Alajuelita,158,Vazquez de Coronado,112,Acosta,10634,Tibas,30,Moravia,333,Montes de Oca,61,Turrubares,2321,Dota,3973,Curridabat,30,Perez Zeledon,230291,Leon Cortes Castro,3266
+Pollos,Alajuela,1,Alajuela,1949767,San Ramon,3023181,Grecia,1309117,San Mateo,139059,Atenas,431972,Naranjo,146375,Palmares,410457,Poas,206657,Orotina,121641,San Carlos,2773942,Zarcero,380,Valverde Vega,129069,Upala,27848,Los Chiles,8430,Guatuso,5781
+Pollos,Cartago,0.012801025,Cartago,106730,Paraiso,3963,La Union,138,Jimenez,3359,Turrialba,18108,Alvarado,2515,Oreamuno,1366,El Guarco,583 
+Pollos,Heredia,0.045542751,Heredia,105,Barva,44931,Santo Domingo,153,Santa Barbara,415641,San Rafael,585,San Isidro,688,Belen,27,Flores,24,San Pablo,56,Sarapiqui,24354
+Pollos,Guanacaste,0.00792948,Liberia,2975,Nicoya,15707,Santa Cruz,11668,Bagaces,10829,Carrillo,1625,Canas,1836,Abangares,2617,Tilaran,5606,Nandayure,2671,La Cruz,9952,Hojancha,19230
+Pollos,Puntarenas,0.031048396,Puntarenas,85147,Esparza,148091,Buenos Aires,21097,Montes de Oro,31543,Osa,5290,Quepos,5816,Golfito,9686,Coto Brus,14506,Parrita,1222,Corredores,8056,Garabito,1257
+Pollos,Limon,0.005692236,Limon,11522,Pococi,21365,Siquirres,9817,Talamanca,11998,Matina,2513,Guacimo,3599
+Gallos,San Jose,0.048751502,San Jose,41,Escazu,45,Desamparados,725,Puriscal,1440,Tarrazu,740,Aserri,657,Mora,315,Goicoechea,67,Santa Ana,221,Alajuelita,44,Vazquez de Coronado,152,Acosta,403,Tibas,24,Moravia,35,Montes de Oca,34,Turrubares,363,Dota,267,Curridabat,8,Perez Zeledon,4383,Leon Cortes Castro,825
+Gallos,Alajuela,1,Alajuela,35908,San Ramon,42132,Grecia,1496,San Mateo,169,Atenas,298,Naranjo,2193,Palmares,4664,Poas,89572,Orotina,159,San Carlos,37337,Zarcero,643,Valverde Vega,1783,Upala,279,Los Chiles,1226,Guatuso,934
+Gallos,Cartago,0.018571571,Cartago,705,Paraiso,239,La Union,58,Jimenez,226,Turrialba,2573,Alvarado,89,Oreamuno,77,El Guarco,143
+Gallos,Heredia,0.070684934,Heredia,41,Barva,5994,Santo Domingo,61,Santa Barbara,172,San Rafael,144,San Isidro,176,Belen,4696,Flores,17,San Pablo,17,Sarapiqui,4325
+Gallos,Guanacaste,0.049198847,Liberia,847,Nicoya,2702,Santa Cruz,2503,Bagaces,650,Carrillo,412,Canas,271,Abangares,327,Tilaran,701,Nandayure,508,La Cruz,1434,Hojancha,333
+Gallos,Puntarenas,0.322955546,Puntarenas,61800,Esparza,546,Buenos Aires,2987,Montes de Oro,334,Osa,1027,Quepos,380, Golfito,1085,Coto Brus,1725,Parrita,315,Corredores,974,Garabito,299
+Gallos,Limon,0.073992571,Limon,3105,Pococi,8255,Siquirres,1103,Talamanca,2451,Matina,727,Guacimo,734
+Gallinas,San Jose,0.1437883,San Jose,148,Escazu,249,Desamparados,15872,Puriscal,24362,Tarrazu,9568,Aserri,6049,Mora,28448,Goicoechea,664,Santa Ana,8649,Alajuelita,724,Vazquez de Coronado,3678,Acosta,43061,Tibas,96,Moravia,1263,Montes de Oca,357,Turrubares,6142,Dota,4967,Curridabat,44,Perez Zeledon,168050,Leon Cortes Castro,8423
+Gallinas,Alajuela,1,Alajuela,1891454,San Ramon,303581,Grecia,219662,San Mateo,305286,Atenas,40648,Naranjo,335910,Palmares,179740,Poas,463183,Orotina,163666,San Carlos,106290,Zarcero,6488,Valverde Vega,22747,Upala,37147,Los Chiles,11136,Guatuso,15023
+Gallinas,Cartago,0.042280265,Cartago,14986,Paraiso,18901,La Union,616,Jimenez,15373,Turrialba,87768,Alvarado,8432,Oreamuno,5673,El Guarco,21683 
+Gallinas,Heredia,0.067303175,Heredia,471,Barva,90537,Santo Domingo,1393,Santa Barbara,100967,San Rafael,611,San Isidro,7270,Belen,34415,Flores,121,San Pablo,105,Sarapiqui,40185
+Gallinas,Guanacaste,0.035009353,Liberia,9293,Nicoya,18264,Santa Cruz,17283,Bagaces,16618,Carrillo,5643,Canas,4849,Abangares,37926,Tilaran,8002,Nandayure,4872, La Cruz,9666,Hojancha,11191
+Gallinas,Puntarenas,0.178020951,Puntarenas,542671,Esparza,13374,Buenos Aires,30645,Montes de Oro,4321,Osa,11337,Quepos,2654,Golfito,10389,Coto Brus,89846,Parrita,3329,Corredores,9857,Garabito,11812
+Gallinas,Limon,0.024306423,Limon,12836,Pococi,30310,Siquirres,13848,Talamanca,15822,Matina,20439,Guacimo,6449

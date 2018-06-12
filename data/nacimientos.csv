@@ -1,0 +1,22 @@
+﻿x,y,valor
+San Jose,Total,1,San Jose,5022,Escazu,945,Desamparados,3115,Puriscal,413,Tarrazu,257,Aserri,880,Mora,350,Goicoechea,1672,Santa Ana,83,Alajuelita,1112,Vazquez de Coronado,946,Acosta,258,Tibas,1020,Moravia,678,Montes de Oca,564,Turrubares,56,Dota,111,Curridabat,1049,Perez Zeledon,2148,Leon Cortes,164
+San Jose,Hombres,1,San Jose,2543,Escazu,520,Desamparados,1582,Puriscal,221,Tarrazu,140,Aserri,462,Mora,188,Goicoechea,859,Santa Ana,442,Alajuelita,580,Vazquez de Coronado,521,Acosta,132,Tibas,526,Moravia,361,Montes de Oca,303,Turrubares,30,Dota,55,Curridabat,553,Perez Zeledon,1089,Leon Cortes,75
+San Jose,Mujeres,1,San Jose,2479,Escazu,425,Desamparados,1533,Puriscal,192,Tarrazu,117,Aserri,418,Mora,162,Goicoechea,813,Santa Ana,396,Alajuelita,532,Vazquez de Coronado,425,Acosta,126,Tibas,494,Moravia,317,Montes de Oca,261,Turrubares,26,Dota,56,Curridabat,496,Perez Zeledon,1059,Leon Cortes,89
+Alajuela,Total,0.695434762,Alajuela,4350,San Ramon,1325,Grecia,1268,San Mateo,67,Atenas,311,Naranjo,602,Palmares,474,Poas,506,Orotina,311,San Carlos,3459,Zarcero,204,Valverde Vega,268,Upala,972,Los Chiles,609,Guatuso,294
+Alajuela,Hombres,0.685118941,Alajuela,2193,San Ramon,685,Grecia,664,San Mateo,35,Atenas,158,Naranjo,319,Palmares,234,Poas,243,Orotina,167,San Carlos,1754,Zarcero,102,Valverde Vega,140,Upala,502,Los Chiles,307,Guatuso,158
+Alajuela,Mujeres,0.706509217,Alajuela,2157,San Ramon,640,Grecia,604,San Mateo,32,Atenas,153,Naranjo,283,Palmares,240,Poas,263,Orotina,144,San Carlos,1705,Zarcero,102,Valverde Vega,128,Upala,470,Los Chiles,302,Guatuso,136
+Cartago,Total,0.337716455,Cartago,2032,Paraiso,876,La Union,1401,Jimenez,246,Turrialba,1224,Alvarado,198,Oreamuno,690,El Guarco,627
+Cartago,Hombres,0.329905205,Cartago,1003,Paraiso,460,La Union,718,Jimenez,134,Turrialba,606,Alvarado,102,Oreamuno,353,El Guarco,313
+Cartago,Mujeres,0.346102151,Cartago,1029,Paraiso,416,La Union,683,Jimenez,112,Turrialba,618,Alvarado,96,Oreamuno,337,El Guarco,314
+Heredia,Total,0.303592925,Heredia,1830,Barva,577,Santo Domingo,486,Santa Barbara,504,San Rafael,721,San Isidro, 251,Belen,330,Flores,357,San Pablo,377,Sarapiqui,1124
+Heredia,Hombres,0.300482919,Heredia,933,Barva,303,Santo Domingo,242,Santa Barbara,252,San Rafael,359,San Isidro,124,Belen,172,Flores,180,San Pablo,197,Sarapiqui,598
+Heredia,Mujeres,0.306931644,Heredia,897,Barva,274,Santo Domingo,244,Santa Barbara,252,San Rafael,362,San Isidro,127,Belen,158,Flores,177,San Pablo,180,Sarapiqui,526
+Guanacaste,Total,0.271738124,Liberia,1300,Nicoya,850,Santa Cruz,986,Bagaces,346,Carrillo,726,Canas,467,Abangares,258,Tilaran,240,Nandayure,139,La Cruz,461,Hojancha,96
+Guanacaste,Hombres,0.267572885,Liberia,650,Nicoya,427,Santa Cruz,503,Bagaces,178,Carrillo,378,Canas,235,Abangares,129,Tilaran,123,Nandayure,72,La Cruz,251,Hojancha,46
+Guanacaste,Mujeres,0.276209677,Liberia,650,Nicoya,423,Santa Cruz,483,Bagaces,168,Carrillo,348,Canas,232,Abangares,129,Tilaran,117,Nandayure,67,La Cruz,210,Hojancha,50
+Puntarenas,Total,0.340957496,Puntarenas,1993,Esparza,443,Buenos Aires,865,Montes de Oro,178,Osa,503,Aguirre,496,Golfito,694,Coto Brus,778,Parrita,275,Corredor,727,Garabito,412
+Puntarenas,Hombres,0.339205867,Puntarenas,1082,Esparza,241,Buenos Aires,431,Montes de Oro,78,Osa,257,Aguirre,254,Golfito,341,Coto Brus,400,Parrita,142,Corredor,356,Garabito,211
+Puntarenas,Mujeres,0.342837942,Puntarenass,911,Esparza,202,Buenos Aires,434,Montes de Oro,100,Osa,246,Aguirre,242,Golfito,353,Coto Brus,133,Corredor,371,Garabito,201
+Limon,Total,0.375821835,Limon,2042,Pococi,2349,Siquirres,1054,Talamanca,983,Matina,844,Guacimo,845
+Limon,Hombres,0.375961366,Limon,1088,Pococi,1240,Siquirres,554,Talamanca,500,Matina,433,Guacimo,389
+Limon,Mujeres,0.375672043,Limon,954,Pococi,1109,Siquirres,500,Talamanca,483,Matina,411,Guacimo,456
